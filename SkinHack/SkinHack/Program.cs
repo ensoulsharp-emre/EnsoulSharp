@@ -25,7 +25,7 @@ namespace EnsoulSharp.SkinHack
         {
             try
             {
-                Chat.PrintChat("SkinHack v1.0.0");
+                Chat.PrintChat("SkinHack v1.0.1");
                 Chat.PrintChat("Thanks for help 011110001");
                 Chat.PrintChat("Creator: emredeger");
                 
